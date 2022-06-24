@@ -11,3 +11,10 @@ Status of translation and its planning
 - [ ] https://github.com/ferrous-systems/elements-of-rust
 - [ ] https://rust-unofficial.github.io/patterns
 - [ ] http://rust-lang.github.io/api-guidelines
+
+## Tools
+
+- ? https://www.microsoft.com/en-us/language 
+- ? https://slovotvir.org.ua/
+- ? https://github.com/LambdaBooks/dictionary
+- ? https://e2u.org.ua/

@@ -11,6 +11,7 @@ Status of translation and its planning
 - [ ] https://github.com/ferrous-systems/elements-of-rust
 - [ ] https://rust-unofficial.github.io/patterns
 - [ ] http://rust-lang.github.io/api-guidelines
+- [ ] https://rustwasm.github.io/docs/book
 
 ## Tools
 

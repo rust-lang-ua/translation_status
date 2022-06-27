@@ -11,7 +11,7 @@
 | [Cargo Book](https://doc.rust-lang.org/cargo)                               | -          | -                |
 | [Tour of Rust](https://tourofrust.com/TOC_ua.html)                          | -          | -                |
 | [Blog](https://blog.rust-lang.org)                                          | -          | -                |
-| [Rustnomicon](https://doc.rust-lang.org/nomicon))                           | -          | -                |
+| [Rustnomicon](https://doc.rust-lang.org/nomicon)                            | -          | -                |
 | [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example)         | -          | -                |
 | [Embedded Rust](https://docs.rust-embedded.org/book/intro)                  | -          | -                |
 | [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/) | -          | -                |
@@ -26,8 +26,10 @@
 
 ## Інструменти
 
-- [Microsoft: Пошук термінології](https://www.microsoft.com/en-us/language)
-- [Slovotvir: Переклад запозичених слів](https://slovotvir.org.ua/)
-- [e2u: Збірник словників англійсько-українськими перекладами термінів](https://e2u.org.ua/)
-- [Deepl: Онлайн перекладач на російську чи інші мови](https://deepl.com)
-- [Github словник із перекладами англійських термінів на літеру A](https://github.com/LambdaBooks/dictionary)
+| Назва                                                        | Опис                                                           |
+| ------------------------------------------------------------ | -------------------------------------------------------------- |
+| [Microsoft Search](https://www.microsoft.com/en-us/language) | Пошук термінології                                             |
+| [Slovotvir](https://slovotvir.org.ua/)                       | Переклад запозичених слів                                      |
+| [e2u](https://e2u.org.ua/)                                   | Збірник словників англійсько-українськими перекладами термінів |
+| [Deepl](https://deepl.com)                                   | Онлайн перекладач на російську чи інші мови                    |
+| [Github](https://github.com/LambdaBooks/dictionary)          | Cловник із перекладами англійських термінів на літеру A        |

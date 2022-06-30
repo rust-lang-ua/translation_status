@@ -42,3 +42,9 @@
 | [Pontoon](https://pontoon.rust-lang.org/)                    | рекомендована rust-lang                                        |
 | [Localize](https://gitlocalize.com/)                         | альтернатива,проте менш приваблива                             |
 
+## Приклади словників
+
+| Назва                                                        | Опис                                                           |
+| ------------------------------------------------------------ | -------------------------------------------------------------- |
+| [LambdaBooks](https://github.com/LambdaBooks/understandinges6ua/blob/master/DICTIONARY.md)| Словник із перекладами англійських термінів A-Z |
+| [LambdaBooks](https://github.com/LambdaBooks/dictionary)     | Cловник із перекладами англійських термінів на літеру A (деталізований) |

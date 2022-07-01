@@ -1,3 +1,5 @@
+## Наш словник
+
 [Свій Термінологічний Словник](https://github.com/rust-lang-ua/rust-book-uk-ua/blob/master/DICTIONARY.md)
 
 ## Статуси перекладів

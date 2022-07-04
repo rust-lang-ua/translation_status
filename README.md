@@ -1,3 +1,5 @@
+[![Crowdin](https://badges.crowdin.net/rustukrainian/localized.svg)](https://crowdin.com/project/rustukrainian)
+
 ## Наш словник
 
 [Свій Термінологічний Словник](https://github.com/rust-lang-ua/rust-book-uk-ua/blob/master/DICTIONARY.md)
@@ -25,15 +27,20 @@
 | [API Guidelines](https://rust-lang.github.io/api-guidelines)                | -          | -                |
 | [WASM Book](https://rustwasm.github.io/docs/book)                           | -          | -                |
 | [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)         | -          | -                |
+| [Rustlings](https://github.com/rust-lang/rustlings)                         | -          | -                |
+| [RustUp](https://github.com/rust-lang/rustup)                               | -          | -                |
+| [Clippy](https://github.com/rust-lang/rust-clippy)                          | -          | -                |
+| [RustFMT](https://github.com/rust-lang/rustfmt)                             | -          | -                |
 
 ## Інструменти (перекладачі)
 
-| Назва                                                        | Опис                                                           |
-| ------------------------------------------------------------ | -------------------------------------------------------------- |
+| Назва                                                          | Опис                                                           |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
 | 1.[Microsoft Search](https://www.microsoft.com/en-us/language) | Пошук термінології                                             |
 | 2.[e2u](https://e2u.org.ua/)                                   | Збірник словників англійсько-українськими перекладами термінів |
 | 3.[Deepl](https://deepl.com)                                   | Онлайн перекладач на російську чи інші мови                    |
 | 4.[Slovotvir](https://slovotvir.org.ua/)                       | Переклад запозичених слів                                      |
+| 5.[Context Reverso](https://context.reverso.net)               | Переклад на українську та інші мови                            |
 
 
 ## Утиліти для менеджменту

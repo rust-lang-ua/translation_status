@@ -6,7 +6,7 @@
 
 | Перекладаємий ресурс                                                        | PR         | Translation Repo |
 | --------------------------------------------------------------------------- | ---------- | ---------------- |
-| [Book](https://doc.rust-lang.org/book)                                      | [PR](https://github.com/rust-lang-ua/rustbook_ukrainian) | -                |
+| [Book](https://doc.rust-lang.org/book)                                      | [PR](https://github.com/rust-lang-ua/rustbook_ukrainian/pull/120) | [Repo](https://github.com/rust-lang-ua/rustbook_ukrainian)                |
 | [Home](https://rust-lang.org)                                               | -          | -                |
 | [Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)               | -          | -                |
 | [Async Book](https://rust-lang.github.io/async-book)                        | -          | -                |

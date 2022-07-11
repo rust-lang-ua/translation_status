@@ -1,6 +1,6 @@
 [![Crowdin](https://badges.crowdin.net/rustukrainian/localized.svg)](https://crowdin.com/project/rustukrainian)
 
-# Вступ
+## Вступ
 У цьому репозиторії зберігаються усі корисні матеріали,інструменти та інстукції для перекладу англомовних Rust книг на українську мову. 
 
 ## Навігація

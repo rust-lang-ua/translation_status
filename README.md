@@ -12,8 +12,8 @@
  - [translation_QA](./translation_QA.md) - Питання/пропозиції щодо перекладу
  - [meetings_agenda](./meetings_agenda.md) - Плани зустрічей
  - [books_translation](./books_status.md) - Книги для перекладу
- - [usefull_materials]() - Корисні посилання
- - [utilities]() - Утиліти для менеджменту перекладу
+ - [usefull_materials](./usefull_materials.md) - Корисні посилання
+ - [utilities](./utilities.md) - Утиліти для менеджменту перекладу
 
 
 
